@@ -37,7 +37,8 @@ The methodology is pre-first-engagement: it has been stress-tested through synth
 
 ## License
 
-This library is licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) (CC BY-NC-SA 4.0).
+This library is licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) (CC BY-NC-SA 4.0). See [LICENSE.md](LICENSE.md) for the full legal code.
+
 
 You may read, cite, adapt, and build derivative works for non-commercial purposes, provided you attribute the source and license your derivative works under the same terms. Commercial use — including incorporating this methodology into a competing advisory practice — requires direct permission from the author.
 
