@@ -31,13 +31,13 @@ Three reasons.
 
 ## Current state (May 2026)
 
-Nine of seventeen planned essays (~53%) are at v0.1 quality. The rest exist as scaffolds. See [TOC.md](TOC.md) for what exists and what's forthcoming.
+Fifteen of seventeen planned essays (~88%) are at v0.1 quality. The rest exist as scaffolds. See [TOC.md](TOC.md) for what exists and what's forthcoming.
 
 The methodology is pre-first-engagement: it has been stress-tested through synthetic engagement work and through the practitioner's own ongoing relocation case, but no real third-party client engagement has completed yet. Treat the v0.1 designation accordingly — the methodology is real, but it will revise on contact with real engagement work.
 
 ## License
 
-This library is licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) (CC BY-NC-SA 4.0). See [LICENSE.md](LICENSE.md) for the full legal code.
+This library is licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) (CC BY-NC-SA 4.0).
 
 You may read, cite, adapt, and build derivative works for non-commercial purposes, provided you attribute the source and license your derivative works under the same terms. Commercial use — including incorporating this methodology into a competing advisory practice — requires direct permission from the author.
 

@@ -161,7 +161,7 @@ The line between "shipped fresh and aged out gracefully" and "actively maintaine
 - **Refresh**: re-verification of an aged row, partial or full.
 - **Verification path**: the one-line action the client should take to confirm currency before relying on the row. Pairs with [[m13-verify-with-authority]].
 - **Compounding archive**: slow-aging category knowledge accumulated across engagements; reusable across clients with light refresh.
-- **Endorsement creep**: presenting a researched shortlist as a guaranteed recommendation. A separate discipline failure, not aging; see [[m10-endorsement-creep]] when that note exists.
+- **Endorsement creep**: presenting a researched shortlist as a guaranteed recommendation. A separate discipline failure, not aging; see [[m10-endorsement-creep]] for the four-step gradient (observation → opinion → recommendation → vouching) that prevents it.
 
 Provider research is not the same as provider endorsement. Aging discipline tells the client *when* a researched candidate was true; endorsement discipline tells them that "researched" is not "vouched for." The two compose: a fresh shortlist with weak endorsement language is honest research; a stale shortlist with strong endorsement language is the worst combination.
 
@@ -190,7 +190,7 @@ Provider research is not the same as provider endorsement. Aging discipline tell
 - **"Last checked" field**: whether every D-04 row needs a per-row last-checked date or whether a per-section date suffices. Lean: per-row, because aging speed varies within a section.
 - **Default freshness window**: the working "act within 30 days for medium-aging rows" rule is unvalidated. Worth tracking actuals for the first three to five engagements and revising.
 - **Refresh service**: whether Implementation Support should include a standing monthly refresh of the shortlist, an on-demand refresh on client trigger, or both. Probably both, priced separately.
-- **Affiliate / commission policy interaction**: aging discipline is honest about *when* a row was true; endorsement discipline is honest about *how* the practitioner relates to the provider. Both need a written policy that survives across engagements. See [[m10-endorsement-creep]] when that note exists.
+- **Affiliate / commission policy interaction**: aging discipline is honest about *when* a row was true; endorsement discipline is honest about *how* the practitioner relates to the provider. Both need a written policy that survives across engagements. See [[m10-endorsement-creep]] §5 and §10 for the personal-experience disclosure shapes and the commission-policy open question.
 - **Mason-shaped clients**: thorough, regulatory-text-comfortable clients may want to verify everything themselves. The aging expression should welcome this — the verification path is a starting point for the client's own due diligence, not a substitute for it. Test whether such clients find the freshness labels useful scaffolding or condescending overlay.
 - **Aging archive vs. case archive**: the practice's compounding archive (slow-aging category knowledge) lives separately from per-engagement case files. The data structure for promoting verified slow-aging claims from a case archive into the shared archive is unsettled. Worth pinning down before the second engagement adds the same category knowledge a second time without reuse.
 

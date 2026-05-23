@@ -24,8 +24,8 @@ These essays define what counts as what in the methodology — what's a system, 
 - **M-05 Complement Test Beyond Systems** · Scaffold
   Extending M-01's complement test ("is there a professional specialist around this?") to other methodology categories — dependencies, risks, leverage points.
 
-- **M-09 When to Draw an Arrow** · Scaffold
-  Discipline for the Dependency Map (D-03) — when a connection deserves a directional arrow, when it remains a soft association, when an apparent loop signals a language problem rather than a real dependency.
+- **[M-09 When to Draw an Arrow](essays/m09-when-to-draw-an-arrow.md)** · v0.1
+  Rendering discipline for D-01 connections and D-03 dependencies — when a relationship earns a visible arrow vs. living in the register. The four strength labels mapped to rendering treatment, soft-system dependencies without starburst, and the visual budget (≤15 on D-01, ≤20 on D-03 page 1).
 
 ---
 
@@ -54,8 +54,8 @@ These essays name patterns that recur across engagements and the resolutions tha
 - **[M-08 Reusable Circular Dependencies](essays/m08-reusable-circular-dependencies.md)** · v0.1
   Five reusable patterns for resolving apparent circular dependencies in the Dependency Map (D-03), preceded by four diagnostic questions to verify the loop is real before reaching for a pattern.
 
-- **M-16 Stabilize Before Optimize** · Scaffold
-  Sequencing principle for the First 90 Days landing plan (D-07) and for engagement pacing more broadly — get something working before refining it.
+- **[M-16 Stabilize Before Optimize](essays/m16-stabilize-before-optimize.md)** · v0.1
+  Ordering principle for the First 90 Days landing plan (D-07). Six-item stabilization stack (housing/address → registration → healthcare → banking → comms → capacity protection) before optimization. Why competent clients are most vulnerable to optimizing too early; five D-07 ordering rules. Pairs with M-17.
 
 ---
 
@@ -63,8 +63,8 @@ These essays name patterns that recur across engagements and the resolutions tha
 
 These essays address how the methodology accounts for time: how claims age, how plans degrade, how capacity is consumed, how arrival itself creates a cliff.
 
-- **M-07 Capacity as Critical Strength / Sequencing Constraint** · Scaffold
-  Extending the capacity framing into the Critical Path Timeline (D-02) — how capacity windows determine what can be sequenced when.
+- **[M-07 Capacity as a Critical-Strength Sequencing Constraint](essays/m07-capacity-as-critical-strength-sequencing-constraint.md)** · v0.1
+  Capacity treated as structurally equivalent to a legal deadline or provider gate in the Critical Path Timeline (D-02). Why capacity earns critical-strength, the five capacity-respecting sequencing moves (defer / delegate / sequence earlier / reduce parallel / build recovery), and the D-02 capacity density indicator. Pairs with M-15.
 
 - **[M-11 Provider Research Aging](essays/m11-provider-research-aging.md)** · v0.1
   Discipline for the temporal decay of provider information in the Provider Shortlist (D-04). Aging-speed categories per provider type, freshness labels at delivery, refresh triggers. Composes with M-06 confidence labels and M-13 authority verification.
@@ -81,14 +81,14 @@ These essays address how the methodology accounts for time: how claims age, how 
 
 These essays name disciplines for how the practitioner operates — not what they produce, but how they show up and what limits they hold.
 
-- **M-10 Endorsement Creep** · Scaffold
-  How practitioner statements can drift from "you might want to consider" into "I think you should" into "I recommend X." The discipline that prevents the methodology from quietly becoming directive.
+- **[M-10 Endorsement Creep](essays/m10-endorsement-creep.md)** · v0.1
+  Four-step gradient from factual observation through marked practitioner opinion to recommendation and vouching, with language patterns and personal-experience disclosure shapes for D-04 Provider Shortlist rows. Specifies the studio's Tier 3 endorsement-language validator.
 
-- **M-12 Privacy Posture** · Scaffold
-  Why privacy-first architecture (local tooling, encrypted workstation, no cloud AI for client data) is a methodology choice and not just an operational one.
+- **[M-12 Privacy Posture](essays/m12-privacy-posture.md)** · v0.1
+  Three rules — ask for descriptions not artifacts, custody requires named justification and a defined endpoint, client data stays in the connected engagement directory. The methodological underpinning of the studio's Privacy Architecture.
 
-- **M-14 Risk Theater vs Risk Register** · Scaffold
-  How risk registers can become theater — visible risk-tracking without actual action. The discipline that keeps the register operational rather than performative.
+- **[M-14 Risk Theater vs Risk Register](essays/m14-risk-theater-versus-risk-register.md)** · v0.1
+  Four constraints every D-06 row must satisfy — specific exposure, named response (mitigation / contingency / accepted), named owner, early-warning signal. Three response shapes with required fields. Tone discipline and named subclasses including capacity risks (paired with M-15).
 
 ---
 
