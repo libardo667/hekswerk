@@ -31,7 +31,7 @@ Three reasons.
 
 ## Current state (May 2026)
 
-Fifteen of seventeen planned essays (~88%) are at v0.1 quality. The rest exist as scaffolds. See [TOC.md](TOC.md) for what exists and what's forthcoming.
+Sixteen of seventeen planned essays (~94%) are at v0.1 quality. Only M-17 Arrival Cliff remains as a scaffold. See [TOC.md](TOC.md) for what exists and what's forthcoming.
 
 The methodology is pre-first-engagement: it has been stress-tested through synthetic engagement work and through the practitioner's own ongoing relocation case, but no real third-party client engagement has completed yet. Treat the v0.1 designation accordingly — the methodology is real, but it will revise on contact with real engagement work.
 

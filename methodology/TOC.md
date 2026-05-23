@@ -21,8 +21,8 @@ These essays define what counts as what in the methodology — what's a system, 
 - **[M-04 Leverage Points](essays/m04-leverage-points.md)** · v0.1
   Six-criterion checklist for identifying the three to five decisions whose outcomes change the shape of multiple downstream systems.
 
-- **M-05 Complement Test Beyond Systems** · Scaffold
-  Extending M-01's complement test ("is there a professional specialist around this?") to other methodology categories — dependencies, risks, leverage points.
+- **[M-05 Complement Test Beyond Systems](essays/m05-complement-test-beyond-systems.md)** · v0.1
+  The complement test is a *discovery* tool, not a *promotion* rule. Four landing states (active / dormant / latent / ruled out), five circumstance criteria, false-positive list, and the "make-sure-to-include" inverse for systems whose specialty side is fragmented (identity, capacity, household alignment).
 
 - **[M-09 When to Draw an Arrow](essays/m09-when-to-draw-an-arrow.md)** · v0.1
   Rendering discipline for D-01 connections and D-03 dependencies — when a relationship earns a visible arrow vs. living in the register. The four strength labels mapped to rendering treatment, soft-system dependencies without starburst, and the visual budget (≤15 on D-01, ≤20 on D-03 page 1).
