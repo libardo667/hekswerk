@@ -93,15 +93,34 @@ check, not a new metric) **and (b)** a decision actually needs the casting axis 
 hold, this stays a logged observation. The cheap separator is varying the *condition* (scale,
 federation), never adding another ruler.
 
-## Where it went next
+## A correction, kept (2026-06-15)
 
-A later, near-accidental observation sharpened the question: a single resident, run **solo** in an
-emptied shard with **no peers and no shared world**, independently reproduced the same structural-collapse
-attractor. That removes the echo dynamic entirely and suggests a **dispositional** component the
-structural account alone does not explain. That is a fresh hypothesis, not a result; it is pre-registered
-as its own experiment (worldweaver work-item: *"monoculture is partly dispositional, the solo-resident
-confabulation control"*), with a soul-shuffle null and a model-family cross to separate disposition from
-the shared world.
+An earlier version of this record ended with a coda I have since **withdrawn**. It claimed that a single
+resident, run later in the same world, reproduced the attractor *solo, with no peers and no shared world*,
+which would have isolated a **dispositional** component the structural account cannot explain.
+
+On audit, that resident's own perception ledger falsifies the "solo" premise. During the session it logged
+an `anchor_observed` (perception) event listing six present, fully-salient neighbors, every one of them a
+resident from the earlier run:
+
+```
+2026-06-14T17:13:27  anchor_observed
+anchors: maker, liliana montemayor, yoshida yuji, delgado herrera,
+         marcos reyes, amara tekle, malie kahale   (salience 1.0)
+```
+
+A dozen more cadre names appear across its perception and prediction events, and its own utterance ("the
+trees **Malie** mentions...") references a real prior resident by name. It was perceiving and **joining a
+populated room**, not confabulating alone. The convergence is fully consistent with the structural / echo
+account; the dispositional inference is unsupported and **withdrawn**.
+
+**What this changes going forward.** "Isolated" cannot mean "the agents were stopped." Residents persist as
+present world-entities whose names and last utterances populate the scene a visitor perceives. A genuine
+solo control requires a verified-empty world (`canon_reset.py --neutral-start --clear-events`, which wipes
+residents, sessions, chats, events, facts, and federation residue while keeping the city-pack geography) and
+a check that the perceived anchor list is empty before the clock starts. That guardrail is now part of the
+pre-registered design. The catch came from auditing the perception log the same day this was published: the
+honesty discipline applied to my own most-flattering claim.
 
 ## Provenance
 
